@@ -88,6 +88,6 @@ ROBOTSTXT_OBEY = True
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
-FEED_URI='file:///home/ally/gitshit/scrapy-crawler/export.js'
+FEED_URI='file:///home/ally/gitshit/scrapy-crawler/export.json'
 FEED_EXPORT_ENCODING='utf-8'
 FEED_FORMAT='json'
